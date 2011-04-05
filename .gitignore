@@ -1,0 +1,4 @@
+web/assets/*
+web/protected/runtime/
+web/protected/config/main.php
+web/index.php
